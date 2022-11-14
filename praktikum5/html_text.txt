@@ -1,0 +1,21 @@
+ANALISIS PERANCANGAN KEBUTUHAN KOPI BEST SELLER UNTUK MEMENUHI PERMINTAAN DI CAFE KOPI TITIK DENGAN MENGGUNAKAN METODE PERAMALAN
+Santika Sari, Dhiyya Jannati
+
+
+Abstract
+
+The Covid 19 pandemic has an impact on industry in Indonesia. One of the industries affected by Covid 19 is the coffee shop industry. 
+The existence of the Covid 19 pandemic caused uncertainty in the sale of coffee products which caused the coffee shop to have difficulty 
+determining raw materials for the next period. To overcome this problem, forecasting is needed to determine the raw material needs in the 
+form of coffee beans. This study aims to predict the number of best-selling products in "Kopi Titik" coffee. Namely coffee milk, Americano 
+and Capuccino so that the company can get an idea of the number of product sales in the coming period. In addition, companies can also place
+ orders with suppliers so that the raw material needs to fulfill best seller products can be met. The method used in this research is quantitative 
+forecasting, that is forecasting that uses past data to determine future needs. The results obtained from this study are the best seller coffee sales 
+pattern at the Point Coffee Cafe, namely a trend pattern which then uses the double exponential smoothing method with one parameter (Des Brown) and 
+two parameter (Des Holt) approaches; MAPE from the forecast results is 0.268285274% for milk coffee, 0.36874754% for americano and 0.389056107% for 
+cappuccino. The forecast results for the next 5 months are 3498 cups with details of 1920 cups of milk coffee, 754 glasses of americano and 824 cups 
+of cappuccino.
+
+
+ 
+
